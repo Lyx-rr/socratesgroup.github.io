@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "SocratesClub / Homepage"
+title                    : "Lyx-rr / Homepage"
 title_separator          : "-"
-name                     : "SocratesClub"
+name                     : "Lyx-rr"
 description              : "We are a small social science lab focusing on computational social science!"
 url                      : https://socratesgroup.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "SocratesClub"
+  name             : "Lyx-rr"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "socratesclub"
+  github           : "Lyx-rr"
   google_plus      :
   keybase          :
   instagram        :

@@ -12,11 +12,11 @@ redirect_from:
 
 Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
 
-Github: https://github.com/socratesclub
+Github: https://github.com/Lyx-rr
 
 ## People
 ### Directer
-- Cheng-Jun Wang https://chengjun.github.io/
+- Yuxiang Li https://chengjun.github.io/
 
 
 🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
