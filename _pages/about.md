@@ -10,7 +10,7 @@ redirect_from:
 
  
 
-Welcome to the Socrates Lab! We are a small research team affiliated with the Computational Communication Collaboratory, School of Journalism and Communication, Nanjing University.
+Welcome to my personal homepage. I'm a total newbie here and it's completely empty.
 
 Github: https://github.com/Lyx-rr
 
@@ -19,4 +19,4 @@ Github: https://github.com/Lyx-rr
 - Yuxiang Li https://Lyx-rr.github.io/
 
 
-🖋[Revise this page](https://github.com/SocratesGroup/socratesgroup.github.io/edit/master/_pages/about.md)
+🖋[Revise this page](https://github.com/Lyx-rr/Lyx-rr.github.io/edit/master/_pages/about.md)
