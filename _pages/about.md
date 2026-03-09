@@ -15,6 +15,9 @@ Welcome to my personal homepage. I'm a total newbie here and it's completely emp
 Github: https://github.com/Lyx-rr
 
 ## People
+- Name: Yuxiang Li
+- Major: Information Management and System
+- Class: Big Data Communication Experimental Class
 ### Directer
 - Yuxiang Li https://Lyx-rr.github.io/
 
